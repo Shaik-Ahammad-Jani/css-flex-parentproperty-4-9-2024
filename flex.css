@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+#id1{
+    display: flex;
+    align-items: center;
+    
+}
+#id1 input{
+    width: 450px;
+    height: 40px;
+    border-radius:10px;
+}
+#id2{
+    width:400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#id2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+#id3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* id{
+    flex:1;
+}
+#id1{
+    display: flex;
+    align-items: center;
+}
+#id3{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    flex:2;
+} */
